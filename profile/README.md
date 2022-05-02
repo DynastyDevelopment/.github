@@ -7,7 +7,7 @@
 - literate-fortnight (Minecraft Hub Core)
 
 
-<h3 align="left">Connect with us: team@wltcs.us</h3>
+<h3 align="left">Connect with us: team@dynastydev.xyz</h3>
 <p align="left">
 </p>
 
